@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/p2p-file-transfer/static/js/main.e06ff4f7.js",
+    "static/js/433.13d2213f.chunk.js": "/p2p-file-transfer/static/js/433.13d2213f.chunk.js",
+    "index.html": "/p2p-file-transfer/index.html",
+    "main.e06ff4f7.js.map": "/p2p-file-transfer/static/js/main.e06ff4f7.js.map",
+    "433.13d2213f.chunk.js.map": "/p2p-file-transfer/static/js/433.13d2213f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e06ff4f7.js"
+  ]
+}
